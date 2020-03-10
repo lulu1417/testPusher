@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="989c3f19-970e-4d1f-a754-e138aaabba89" name="Default Changelist" comment="" />
+    <list default="true" id="989c3f19-970e-4d1f-a754-e138aaabba89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Events/MessageSent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Events/MyEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/test.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ChatsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ChatsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/broadcasting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/chat.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/chat.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/channels.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/channels.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +34,16 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -107,6 +139,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YbRTOoAvKPu1YiIX63LMHN96Qg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -115,10 +150,13 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -150,22 +188,73 @@
       <updated>1583209315334</updated>
       <workItem from="1583209319282" duration="59000" />
       <workItem from="1583209778737" duration="533000" />
-      <workItem from="1583214701440" duration="1604000" />
+      <workItem from="1583214701440" duration="4235000" />
+      <workItem from="1583225029751" duration="1668000" />
+      <workItem from="1583461075344" duration="709000" />
+      <workItem from="1583463511294" duration="2142000" />
+      <workItem from="1583471568209" duration="4712000" />
+      <workItem from="1583480044245" duration="1107000" />
+      <workItem from="1583481688057" duration="1218000" />
+      <workItem from="1583761059703" duration="263000" />
+      <workItem from="1583766977985" duration="167000" />
+      <workItem from="1583806766546" duration="5971000" />
+      <workItem from="1583815505876" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="541" y="353" key="NewPhpFileDialog" timestamp="1583221137824">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="684" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583476954246">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state x="684" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.980@0.23.1920.980" timestamp="1583476954246" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1583224906350">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1583224906350" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1583224906349">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1583224906349" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1583224906349">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1583224906349" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1583224906349">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1583224906349" />
+    <state x="754" y="335" key="NewPhpClassDialog" timestamp="1583476823024">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state x="754" y="335" key="NewPhpClassDialog/0.23.1920.980@0.23.1920.980" timestamp="1583476823024" />
+    <state x="721" y="425" key="NewPhpFileDialog" timestamp="1583475559423">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
     <state x="541" y="352" key="NewPhpFileDialog/0.23.1440.801@0.23.1440.801" timestamp="1583216427767" />
-    <state x="541" y="353" key="NewPhpFileDialog/0.23.1440.804@0.23.1440.804" timestamp="1583221137824" />
-    <state x="399" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1583209319859">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="541" y="353" key="NewPhpFileDialog/0.23.1440.804@0.23.1440.804" timestamp="1583221862019" />
+    <state x="721" y="425" key="NewPhpFileDialog/0.23.1920.980@0.23.1920.980" timestamp="1583475559423" />
+    <state x="532" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1583806767588">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
+    <state x="532" y="313" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583461076280" />
     <state x="399" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1583209319859" />
+    <state x="399" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1583761060099" />
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1583225032260" />
+    <state x="532" y="306" key="com.intellij.ide.util.TipDialog/0.23.1920.977@0.23.1920.977" timestamp="1583471568787" />
+    <state x="532" y="307" key="com.intellij.ide.util.TipDialog/0.23.1920.980@0.23.1920.980" timestamp="1583806767588" />
+    <state x="626" y="147" width="667" height="729" key="find.popup" timestamp="1583472951579">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="626" y="147" width="667" height="729" key="find.popup/0.23.1920.977@0.23.1920.977" timestamp="1583472951579" />
+    <state x="385" y="151" width="670" height="676" key="search.everywhere.popup" timestamp="1583225595631">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="385" y="151" width="670" height="676" key="search.everywhere.popup/0.23.1440.804@0.23.1440.804" timestamp="1583225595631" />
   </component>
 </project>

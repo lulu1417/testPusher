@@ -2,13 +2,17 @@
 
 namespace App\Http\Controllers;
 
+use App\Events\MessageSent;
+use App\Events\MyEvent;
+use App\Message;
 use Illuminate\Http\Request;
+
 
 class ChatsController extends Controller
 {
     public function __construct()
     {
-        $this->middleware('auth');  // 登录用户才能访问
+        $this->middleware('auth');  //登入才能操作
     }
 
     /**
@@ -34,7 +38,7 @@ class ChatsController extends Controller
     /**
      * Persist message to database
      *
-     * @param  Request $request
+     * @param Request $request
      * @return Response
      */
     public function sendMessage(Request $request)
@@ -45,6 +49,17 @@ class ChatsController extends Controller
             'message' => $request->input('message')
         ]);
 
+        broadcast(new MessageSent($user, $message))->toOthers();
+
         return ['status' => 'Message Sent!'];
     }
+
+    public function test()
+    {
+
+        event(new MyEvent('hello world', 'lulu'));
+
+        return view('test');
+    }
+
 }
